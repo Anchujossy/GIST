@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gist</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_decoder">DecoderActivity</string>
+    <string name="gist_commander">Gist Commenter</string>
+</resources>
